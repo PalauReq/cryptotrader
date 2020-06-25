@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 trading-api-wrappers = "*"
+pandas = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.6"
